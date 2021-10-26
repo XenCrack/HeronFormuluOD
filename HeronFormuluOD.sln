@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeronFormuluOD", "HeronFormuluOD\HeronFormuluOD.csproj", "{FF35F395-0B26-4CF9-8E6E-36738D56850C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF35F395-0B26-4CF9-8E6E-36738D56850C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF35F395-0B26-4CF9-8E6E-36738D56850C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF35F395-0B26-4CF9-8E6E-36738D56850C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF35F395-0B26-4CF9-8E6E-36738D56850C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B53CCACB-A0E5-4C3C-B8D1-A05F176DE017}
+	EndGlobalSection
+EndGlobal
